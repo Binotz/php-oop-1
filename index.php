@@ -45,6 +45,13 @@
                 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q46kf8ElR1ej9tSrlNgAFMe3IAM.jpg', 
                 'Hayao Miyazaki'
             ),
+            new Movie(
+                'Violet Evergarden - Il film',
+                'Animazione',
+                '18/09/2020',
+                'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gU4lIQHc3D53Ov9BNU0Je0ivF8R.jpg',
+                'Taichi Ishidate'
+            ),
         ];   
     ?>
 
